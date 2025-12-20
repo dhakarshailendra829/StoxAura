@@ -1,7 +1,7 @@
 <h1 align="center"> Stock Price Prediction Using Machine Learning</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-%3E%3D3.8-blue" />
+  <img src="https://img.shields.io/badge/Python3-blue" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Stock%20Prediction-yellowgreen" />
   <img src="https://img.shields.io/badge/Streamlit-Interactive%20Dashboard-orange" />
   <img src="https://img.shields.io/github/stars/dhakarshailendra829/StockPricePredictionUsingMachineLearning?style=social" />
