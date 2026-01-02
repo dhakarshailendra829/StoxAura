@@ -10,9 +10,8 @@
 ---
 
 ## Project Overview
-**Stock Price Prediction Using Machine Learning** is an end-to-end AI project that predicts future stock prices using historical market data and machine learning models.  
-The project integrates **data preprocessing, feature engineering, trained ML models, and a modern Streamlit dashboard** to provide interactive and visual stock price forecasting.
-This project demonstrates how machine learning techniques can be applied to **real-world financial data**.
+This project focuses on predicting stock prices using machine learning techniques applied to historical market data. It implements a complete end-to-end pipeline, covering data collection, preprocessing, feature engineering, model training, and evaluation.
+The system is integrated with an interactive Streamlit dashboard that enables users to visualize historical trends and view model-generated price forecasts in real time. By combining statistical analysis, machine learning models, and an intuitive user interface, the project demonstrates the practical application of AI in financial market analysis and decision support.
 ---
 
 ## Purpose of the Project
